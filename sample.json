@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "key": "a",
+      "op": "set",
+      "value": 1
+    },
+    {
+      "key": "a",
+      "op": "set",
+      "value": 2
+    }
+  ]
+}
